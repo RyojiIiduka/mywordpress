@@ -1,0 +1,161 @@
+# Translation of Plugins - WP Approve User - Stable (latest release) in Japanese
+# This file is distributed under the same license as the Plugins - WP Approve User - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-06-01 00:00:11+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Plugins - WP Approve User - Stable (latest release)\n"
+
+#. translators: Link to options page.
+#: noop.php:52
+msgid "Please <a href=\"%s\">enable user registrations</a> for WP Approve User to work."
+msgstr "WP Approve User を動作させるには、<a href=\"%s\">ユーザー登録を有効化</a>してください。"
+
+#: obenland-wp-plugins.php:249
+msgid "Subscribe via RSS"
+msgstr "RSS で購読"
+
+#: wp-approve-user.php:640
+msgid "Send Unapprove Email"
+msgstr "非承認メールを送信"
+
+#: wp-approve-user.php:646
+msgid "Send email on unapproval."
+msgstr "非承認時にメールを送信する。"
+
+#: wp-approve-user.php:621
+msgid "Send email on approval."
+msgstr "承認時にメールを送信する。"
+
+#. translators: Blog name.
+#: wp-approve-user.php:847
+msgctxt "Blogname"
+msgid "[%s] Registration unapproved"
+msgstr "[%s] 登録が承認されませんでした"
+
+#. translators: Blog name.
+#: wp-approve-user.php:813
+msgctxt "Blogname"
+msgid "[%s] Registration approved"
+msgstr "[%s] 登録が承認されました"
+
+#: wp-approve-user.php:968
+msgid "You can&#8217;t unapprove users."
+msgstr "ユーザーを非承認する権限がありません。"
+
+#: wp-approve-user.php:886 wp-approve-user.php:921
+msgid "You can&#8217;t edit that user."
+msgstr "ユーザーを編集する権限がありません。"
+
+#. Plugin Name of the plugin
+msgid "WP Approve User"
+msgstr "WP Approve User"
+
+#. translators: Plugin name.
+#: obenland-wp-plugins.php:173
+msgctxt "Plugin Name"
+msgid "Want to help make this plugin even better? All donations are used to improve %1$s, so donate $20, $50 or $100 now!"
+msgstr "このプラグインをさらに良くするために支援していただけませんか。寄付はすべて、%1$s の改善に使用されます。今すぐ $20、$50、$100のいずれかをご寄付ください。"
+
+#: wp-approve-user.php:248
+msgid "Unapproved"
+msgstr "非承認"
+
+#: wp-approve-user.php:651
+msgid "Unapprove Email"
+msgstr "非承認メール"
+
+#: wp-approve-user.php:199 wp-approve-user.php:308
+msgid "Unapprove"
+msgstr "非承認"
+
+#: wp-approve-user.php:608
+msgid "Email contents"
+msgstr "メールの内容"
+
+#. Author of the plugin
+msgid "Konstantin Obenland"
+msgstr "Konstantin Obenland"
+
+#. Plugin URI of the plugin
+msgid "http://en.wp.obenland.it/wp-approve-user/#utm_source=wordpress&utm_medium=plugin&utm_campaign=wp-approve-user"
+msgstr "http://en.wp.obenland.it/wp-approve-user/#utm_source=wordpress&utm_medium=plugin&utm_campaign=wp-approve-user"
+
+#. Author URI of the plugin
+msgid "http://en.wp.obenland.it/#utm_source=wordpress&utm_medium=plugin&utm_campaign=wp-approve-user"
+msgstr "http://en.wp.obenland.it/#utm_source=wordpress&utm_medium=plugin&utm_campaign=wp-approve-user"
+
+#: obenland-wp-plugins.php:141
+msgid "Donate"
+msgstr "寄付"
+
+#: obenland-wp-plugins.php:233
+msgid "News from Konstantin"
+msgstr "Konstantin からの新着情報"
+
+#: wp-approve-user.php:581 wp-approve-user.php:582
+msgid "Approve User"
+msgstr "ユーザーを承認"
+
+#: wp-approve-user.php:677
+msgid "Approve User Settings"
+msgstr "ユーザー承認設定"
+
+#: obenland-wp-plugins.php:188
+msgid "Blog about it &amp; link to the plugin page"
+msgstr "プラグインについてブログを書いて、プラグインのページにリンクする"
+
+#: obenland-wp-plugins.php:248
+msgid "Follow Konstantin on Twitter"
+msgstr "Konstantin の Twitter をフォローする"
+
+#: obenland-wp-plugins.php:237
+msgid "No news items, feed might be broken..."
+msgstr "ニュース項目がありません。フィードが壊れている可能性があります。"
+
+#: wp-approve-user.php:615
+msgid "Send Approve Email"
+msgstr "承認メールを送信"
+
+#: obenland-wp-plugins.php:185
+msgid "Or you could:"
+msgstr "他にできること:"
+
+#: obenland-wp-plugins.php:187
+msgid "Rate the plugin 5&#9733; on WordPress.org"
+msgstr "WordPress.org で5★評価をつける"
+
+#: wp-approve-user.php:627
+msgid "Approve Email"
+msgstr "承認メール"
+
+#: wp-approve-user.php:198 wp-approve-user.php:317
+msgid "Approve"
+msgstr "承認"
+
+#. translators: Number of users.
+#: wp-approve-user.php:484
+msgid "%d User approved."
+msgid_plural "%d users approved."
+msgstr[0] "%d人のユーザーを承認しました。"
+
+#. translators: Number of users.
+#: wp-approve-user.php:489
+msgid "%d User unapproved."
+msgid_plural "%d users unapproved."
+msgstr[0] "%d人のユーザーを非承認しました。"
+
+#. translators: Placeholders.
+#: wp-approve-user.php:719
+msgctxt "Placeholders"
+msgid "To take advantage of dynamic data, you can use the following placeholders: %s. Username will be the user login in most cases."
+msgstr "動的データを利用するには、次のプレースホルダーを使用できます: %s。ほとんどの場合、ユーザー名がユーザーログインになります。"
+
+#: obenland-wp-plugins.php:166
+msgid "Help spread the word!"
+msgstr "口コミにご協力お願いします。"
